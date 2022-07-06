@@ -1,2 +1,0 @@
-# projetoios
-MeuPrimeiroDiretorio
